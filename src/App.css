@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.App {
+    background-color: #a8dadc;
+    color: #fff;
+    padding: 20px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bold;
+    height: 100vh;
+}
